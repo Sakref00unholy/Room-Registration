@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "854061030630",
+    "firebase_url": "https://roomreservations-d5480.firebaseio.com",
+    "project_id": "roomreservations-d5480",
+    "storage_bucket": "roomreservations-d5480.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854061030630:android:fe0bb82770db6cbe436f27",
+        "android_client_info": {
+          "package_name": "com.hfad.roomregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854061030630-chkequ5io11ai71qf10q1ubndvc0vfiq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN423sq_BFYN9jW5pq7ryhKA9jhy3MH7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854061030630-chkequ5io11ai71qf10q1ubndvc0vfiq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
